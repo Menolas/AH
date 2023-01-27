@@ -1,0 +1,13 @@
+.success {
+  padding: 30px 70px 80px;
+  background-color: $dark-theme-color;
+
+  .close-button {
+    margin-left: auto;
+
+    &::before,
+    &::after {
+      background-color: $light-theme-color;
+    }
+  }
+}

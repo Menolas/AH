@@ -1,0 +1,59 @@
+.btn {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 16px;
+  height: 46px;
+  font-size: 16px;
+  font-weight: 800;
+  color: $dark-text;
+  text-transform: uppercase;
+  border: 2px solid $dark-theme-color;
+  border-left: none;
+
+}
+
+.btn--transparent {
+  background-color: transparent;
+
+  &::before {
+    @include element-style(2px, 50%, black);
+    left: 0;
+    bottom: 0;
+  }
+}
+
+.btn--light-bg {
+  background-color: $light-theme-color;
+  border: none;
+
+  &::before {
+    display: none;
+  }
+}
+
+.btn--dark-bg {
+  color: $light-text;
+  background-color: $dark-theme-color;
+  border: $light-border;
+  border-left: none;
+
+  &::before {
+    @include element-style(2px, 50%, $light-theme-color);
+    left: 0;
+    bottom: 0;
+  }
+}
+
+@media (min-width: 990px) {
+
+  .btn {
+    padding: 0 32px;
+    height: 71px;
+    font-size: 24px;
+    font-weight: 700;
+  }
+}
+
+

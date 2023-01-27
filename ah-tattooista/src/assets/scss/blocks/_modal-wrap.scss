@@ -1,0 +1,44 @@
+.modal-wrap {
+  position: fixed;
+  @include center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.75);
+  z-index: 10;
+}
+
+.modal-wrap__inner-block {
+  position: relative;
+  padding: 60px 36px;
+  width: 100%;
+  background-image: url("../img/form-background.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: $light-theme-color;
+}
+
+.modal-wrap__close-btn {
+  position: absolute;
+  right: 30px;
+  top: 30px;
+  width: 30px;
+  height: 30px;
+
+  &::before,
+  &::after {
+    bottom: 14px;
+    left: -3px;
+  }
+}
+
+@media (min-width: 990px) {
+  
+  .modal-wrap__inner-block {
+    padding: 80px 60px;
+    width: 615px;
+  }
+  
+}
