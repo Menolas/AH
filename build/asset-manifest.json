@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/ah-tattooista/static/css/main.4538e8fc.css",
+    "main.js": "/ah-tattooista/static/js/main.c35fe726.js",
+    "static/js/590.940c1eb1.chunk.js": "/ah-tattooista/static/js/590.940c1eb1.chunk.js",
+    "static/js/209.68880873.chunk.js": "/ah-tattooista/static/js/209.68880873.chunk.js",
+    "static/js/787.7e14c048.chunk.js": "/ah-tattooista/static/js/787.7e14c048.chunk.js",
+    "static/media/body-bg.jpg": "/ah-tattooista/static/media/body-bg.1d600b89db237959a844.jpg",
+    "static/media/form-background.png": "/ah-tattooista/static/media/form-background.a346fb15e45f16a04385.png",
+    "static/media/main-screen-bw.png": "/ah-tattooista/static/media/main-screen-bw.c6ec083339e419ca6b6c.png",
+    "static/media/map.PNG": "/ah-tattooista/static/media/map.df97959494155abb2588.PNG",
+    "static/media/header-bg-mobile1.png": "/ah-tattooista/static/media/header-bg-mobile1.543fbb6be470af8fbca0.png",
+    "static/media/body-bg-mobile.jpg": "/ah-tattooista/static/media/body-bg-mobile.f929153a538e2e73344b.jpg",
+    "static/media/yalkash.jpg": "/ah-tattooista/static/media/yalkash.1648770d9a6b2353ac14.jpg",
+    "static/media/service.png": "/ah-tattooista/static/media/service.981fef260038da4dda41.png",
+    "static/media/booking.jpg": "/ah-tattooista/static/media/booking.dae13ca4c7f5c917099a.jpg",
+    "static/media/logo.png": "/ah-tattooista/static/media/logo.d869659a02cf10664acd.png",
+    "static/media/avatar.jpg": "/ah-tattooista/static/media/avatar.a5abaf3cd0248c6abcc6.jpg",
+    "static/media/sprite.svg": "/ah-tattooista/static/media/sprite.ab2e6be2f6c5c9712fee99a6120e671f.svg",
+    "static/media/avatar.webp": "/ah-tattooista/static/media/avatar.e330f43435a5fed210ca.webp",
+    "index.html": "/ah-tattooista/index.html",
+    "static/media/PreloaderImg.svg": "/ah-tattooista/static/media/PreloaderImg.23be8f3866c4d07fb24aad063aca844c.svg",
+    "main.4538e8fc.css.map": "/ah-tattooista/static/css/main.4538e8fc.css.map",
+    "main.c35fe726.js.map": "/ah-tattooista/static/js/main.c35fe726.js.map",
+    "590.940c1eb1.chunk.js.map": "/ah-tattooista/static/js/590.940c1eb1.chunk.js.map",
+    "209.68880873.chunk.js.map": "/ah-tattooista/static/js/209.68880873.chunk.js.map",
+    "787.7e14c048.chunk.js.map": "/ah-tattooista/static/js/787.7e14c048.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4538e8fc.css",
+    "static/js/main.c35fe726.js"
+  ]
+}
